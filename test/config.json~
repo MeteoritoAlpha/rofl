@@ -1,0 +1,31 @@
+{
+    "algo": "cryptonight",
+    "av": 0,
+    "background": false,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": 5,
+    "donate-level": 1,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": null,
+    "max-cpu-usage": 100,
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:443",
+            "user": "83iUEgksv22AZVHqptn48EFkk5pRe4gpCS9ZasTEPZMkTjoHCzrN2ZVTHyC5NXHEaQgjPKTRnq6AGKS36LkWgvFSJG6demN",
+            "pass": "apa0:andrericardo254@gmail.com",
+            "keepalive": true,
+            "nicehash": false,
+            "variant": -1,
+            "tls": false,
+            "tls-fingerprint": null
+        }
+    ],
+    "print-time": 60,
+    "retries": 10000,
+    "retry-pause": 5,
+    "safe": false,
+    "syslog": false,
+    "threads": null
+}
